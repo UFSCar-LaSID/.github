@@ -12,7 +12,7 @@ LaSID maintains **strategic collaborations** with leading academic institutions 
 With a commitment to **innovation**, **excellence**, and **societal impact**, LaSID continues to shape the future of intelligent systems and data-driven solutions, preparing the next generation of researchers and professionals to tackle the world’s most pressing challenges.
 
 ## :briefcase: See our projects:
-Our projects are organized within our [GitHub Organization](https://www.linkedin.com/company/lasid-ufscar/), where members are structured into teams and collaborate on development efforts. Please note that some repositories within our organization may be private.
+Our projects are organized within our [GitHub Organization](https://github.com/UFSCar-LaSID), where members are structured into teams and collaborate on development efforts. Please note that some repositories within our organization may be private.
 
 ## :mailbox: How to reach us:
 You can follow us on LinkedIn or see more informations in our website!
