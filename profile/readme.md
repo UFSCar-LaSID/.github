@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=../img/banner.png>
+  <img src=/.github/img/banner.png>
 </div>
 
 ## :book: About us
