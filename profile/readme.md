@@ -18,4 +18,4 @@ Our projects are organized within our [GitHub Organization](https://www.linkedin
 You can follow us on LinkedIn or see more informations in our website!
 
 [<img src="/img/linkedin.png" height="40em" align="center" alt="Follow LaSID on LinkedIn" title="Follow LaSID on LinkedIn"/>](https://www.linkedin.com/company/lasid-ufscar/)
-[<img src="/img/website.png" height="40em" align="center" alt="Check it out our website" title="Check it out our website"/>](https://www.lasid.dcomp.ufscar.br) -->
+[<img src="/img/website.png" height="40em" align="center" alt="Check it out our website" title="Check it out our website"/>](https://www.lasid.dcomp.ufscar.br)
